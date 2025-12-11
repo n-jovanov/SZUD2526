@@ -8,8 +8,8 @@ int main()
     printf("Hello world! new branch\n");
 
 
-    printf("Linija koja ce izazvati konflikt");
-
+    printf("Namerni konflikt");
+    
 
     return 0;
 }
