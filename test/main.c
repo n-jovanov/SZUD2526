@@ -8,7 +8,7 @@ int main()
     printf("Hello world! new branch\n");
 
 
-    printf("poz");
+    printf("Namerni konflikt");
     
 
     return 0;
